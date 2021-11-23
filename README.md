@@ -1,4 +1,7 @@
-LunaAliq (るなりく) (有久瑠七)  
+LunaAliq (るなりく) (有久瑠七)
+
+![LunaAliq](./avatar.png)
+
 Streamer on Twitch
 
 streaming:
